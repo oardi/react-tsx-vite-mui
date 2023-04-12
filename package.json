@@ -10,24 +10,24 @@
 		"lint": "eslint --ext tsx,ts src"
 	},
 	"dependencies": {
-		"@emotion/react": "^11.10.5",
-		"@emotion/styled": "^11.10.5",
-		"@fontsource/roboto": "^4.5.8",
-		"@mui/icons-material": "^5.11.0",
-		"@mui/material": "^5.11.8",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"@emotion/react": "11.10.6",
+		"@emotion/styled": "11.10.6",
+		"@fontsource/roboto": "4.5.8",
+		"@mui/icons-material": "5.11.16",
+		"@mui/material": "5.12.0",
+		"react": "18.2.0",
+		"react-dom": "18.2.0"
 	},
 	"devDependencies": {
-		"@types/node": "^18.13.0",
-		"@types/react": "^18.0.27",
-		"@types/react-dom": "^18.0.10",
-		"@typescript-eslint/eslint-plugin": "^5.51.0",
-		"@typescript-eslint/parser": "^5.51.0",
-		"@vitejs/plugin-react-swc": "^3.0.1",
-		"eslint": "^8.33.0",
-		"typescript": "^4.9.3",
-		"vite": "^4.0.0",
-		"vite-tsconfig-paths": "^4.0.5"
+		"@types/node": "18.15.11",
+		"@types/react": "18.0.34",
+		"@types/react-dom": "18.0.11",
+		"@typescript-eslint/eslint-plugin": "5.58.0",
+		"@typescript-eslint/parser": "5.58.0",
+		"@vitejs/plugin-react-swc": "3.3.0",
+		"eslint": "8.38.0",
+		"typescript": "5.0.4",
+		"vite": "4.2.1",
+		"vite-tsconfig-paths": "4.1.0"
 	}
 }
